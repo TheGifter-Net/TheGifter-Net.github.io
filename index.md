@@ -2,6 +2,8 @@
 title: Frequently Asked Questions
 layout: default
 overview: true
+timeline: true
+pinnedTweet: true
 ---
 
 ## Frequently Asked Questions
