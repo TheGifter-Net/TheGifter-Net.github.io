@@ -8,10 +8,11 @@ overview: true
 
 ### What do I need to do to be eligible to receive a gift?
 
-You must be a cam model or SWer. You must follow [@TheGifter](https://twitter.com/TheGifter) on Twitter. One of two things must be easily found from viewing your Twitter profile:
+You must be a cam model or SWer. You must follow [@TheGifter](https://twitter.com/TheGifter) on Twitter. One of a few things must be easily found from viewing your Twitter profile or via your linked MFC, ManyVids, etc profile:
 
 * An Amazon Wishlist setup to receive gifts
-* An email address for receiving Amazon gift cards
+* An email address for receiving Amazon or other brands of gift cards
+* Another means of sending you gifts (such as a PO Box)
 
 If you are outside of the US, please make it clear that you prefer, for example, Amazon Canada gift cards.
 
