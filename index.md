@@ -1,5 +1,5 @@
 ---
-title: TheGifter.net
+title: Frequently Asked Questions
 layout: default
 overview: true
 ---
