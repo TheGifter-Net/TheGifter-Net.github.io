@@ -22,3 +22,7 @@ Nothing. In fact, I ask that you **_not_** reciprocate by sending me videos or o
 ### Why are you doing this?
 
 I like making people smile from small gifts. I've supported SWers and their services over the years, and I just wanted to do something fun to build a following while spoiling my followers.
+
+### Send _me_ a gift!
+
+This isn't a question :)  Gifts are sent randomly. If you demand a gift, you probably won't ever get one. I am not into financial domination, etc. That's not to say that I won't spoil SWers who happen to offer financial domination, but I am not seeking it. Demands will only decrease your odds of receiving spoils.
